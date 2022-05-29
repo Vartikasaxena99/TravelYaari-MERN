@@ -118,7 +118,7 @@ export default function Team() {
                         <img className="img-fluid" src={Sachibg} alt="" />
                     </div>
                     <div className="card-body pt-5">
-                        <img src={Sachi} alt="profile" className="profile" />
+                        <img src="https://avatars.githubusercontent.com/u/79856550?v=4" alt="profile" className="profile" />
                         <h5 className="card-title font-weight-bold">Sneha Banga</h5>
                         <p className="card-text">Web Developer & java developer</p>
                         <div className="p-2">
